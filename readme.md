@@ -1,4 +1,6 @@
-# Work for BYU CS 611 - Fall 2019
+# nb2pdf
+
+A small, simple utility for handling some of the annoyances with converting jupyter notebooks to PDFs. It makes it easier to automatically add an author name at the beginning of the PDF, and automatically remove the numbers from sections (without having to put `{-}` at the end of the markdown cell). Currently doesn't do anything intelligent with figures or images.
 
 ## Converting notebooks to PDFs
 
